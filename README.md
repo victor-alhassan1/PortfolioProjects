@@ -26,4 +26,4 @@ This project demonstrates an end-to-end analytics workflow and reflects my inter
 
 
 Tableau Public link: [https://public.tableau.com/app/profile/victor.alhassan/viz/Covidportfolioproject_17716681641350/Dashboard1#1](https://public.tableau.com/app/profile/victor.alhassan/viz/Covidportfolioproject_17716681641350/Dashboard1#1)
-Dashboard preview: ![alt text]()
+Dashboard preview: ![alt text](https://github.com/victor-alhassan1/PortfolioProjects/blob/main/Covid%20dashboard%20snapshot.png)

@@ -25,4 +25,5 @@ Death Rate (%) = (Total Deaths / Total Confirmed Cases) x 100
 This project demonstrates an end-to-end analytics workflow and reflects my interest in leveraging healthcare data for evidence-based insights.
 
 
-Tableau Public link: [title](https://public.tableau.com/app/profile/victor.alhassan/viz/Covidportfolioproject_17716681641350/Dashboard1#1)
+Tableau Public link: [https://public.tableau.com/app/profile/victor.alhassan/viz/Covidportfolioproject_17716681641350/Dashboard1#1](https://public.tableau.com/app/profile/victor.alhassan/viz/Covidportfolioproject_17716681641350/Dashboard1#1)
+Dashboard preview: ![alt text]()
